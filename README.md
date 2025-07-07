@@ -1,2 +1,2 @@
 # Калкулятор на TS
-## Ссылка: 
+## Ссылка: https://ulzirok.github.io/ts-calculator/
